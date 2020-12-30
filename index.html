@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Cake</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="scripts/funcao2.js"></script>
+    <link rel="stylesheet" href="estilos/estilo.css">  
+
+
+</head>
+<body>
+
+    <header>
+        <h1>The Cake is a Lie</h1>
+    </header>
+
+    <input type="checkbox" id="chk">    
+    <label for="chk" class="menu-icon">&#9776;</label>
+    <div class="bg"></div>
+
+    <nav class="menu-lateral" id="menu">
+        <figure>
+            <img src="imagens/bolo.png" alt="logotipo bolo" class="menu-logo">
+        </figure>
+    </nav>
+
+    <main>
+        <section>
+            <div id="loja" class="conteudo"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p class = "rodape">Desenvolvido pelo programador: </br>
+            Denizio Diomede Caires RGM: 23787724
+            Bianca Maria Silva Sousa RGM: 2347371-1
+        </p>        
+    </footer>
+    
+    <script>
+        $(function(){            
+            criarCardapio();
+
+        })
+    </script>
+
+</body>
+</html>

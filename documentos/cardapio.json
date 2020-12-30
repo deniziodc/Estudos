@@ -1,0 +1,13 @@
+{
+    "bolos":
+    [
+        {"id": 1, "valor": 19.29, "nome": "Bolo de Chocolate", "classe": "chocolate", "img": "imagens/chocolate.png", "boli": "imgBoli" },
+        {"id": 2, "valor": 18.72, "nome": "Bolo de Morango", "classe": "morango", "img": "imagens/morango.png", "boli": "imgBoli"},
+        {"id": 3, "valor": 15.67, "nome": "Bolo de Nutella", "classe": "doce", "img": "imagens/nutela.png", "boli": "imgBoli"},
+        {"id": 4, "valor": 17.45, "nome": "Bolo de Churros", "classe": "churros", "img": "imagens/churros.png", "boli": "imgBoli"},
+        {"id": 5, "valor": 11.21, "nome": "Bolo de Laranja", "classe": "laranja", "img": "imagens/laranja.png", "boli": "imgBoli"}
+    ]
+
+    
+}
+

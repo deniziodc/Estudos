@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menus>
+    <inicio link="index.html"> Produtos </inicio>
+    <inicio link="carrinho.html"> Carrinho </inicio>
+  
+</menus>
